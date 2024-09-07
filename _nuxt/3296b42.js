@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{283:function(n,t,e){"use strict";e.r(t);var c=e(32),component=Object(c.a)({},(function(){return(0,this._self._c)("h2",[this._v("This is Product Page.")])}),[],!1,null,null,null);t.default=component.exports}}]);
